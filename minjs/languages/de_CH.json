@@ -1,0 +1,27 @@
+{
+    "plugin-data": {
+        "name": "MinJs Compiler",
+        "description": "Ein Javascript-Minifier zum Komprimieren und Verunstalten dieser riesigen JS-Dateien. Verwendet den JShrink (https://github.com/tedious/JShrink) Minifier von Tedious Developments."
+    },
+    "please-support-mrbot": "Wenn Ihnen mein Plugin gefällt, unterstützen Sie mich bitte, indem Sie auf die Schaltfläche unten klicken. Danke!",
+    "minjs-help": "Ein Javascript-Minifier zum Komprimieren und Verunstalten dieser riesigen JS-Dateien. Verwendet den JShrink (https://github.com/tedious/JShrink) Minifier von Tedious Developments. Fügen Sie einfach die Quelle eines JS-Ordners und das Ziel für die kompilierte JS-Datei hinzu und der JShrink-Kompressor erledigt den Rest.",
+    "minjs-settings": "Einstellungen",
+    "minjs-develop-mode": "Entwicklungsmodus",
+    "minjs-deactivated": "Deaktiviert",
+    "minjs-activated": "Aktiviert",
+    "minjs-only-min-file": "Nur die Datei minimieren",
+    "minjs-only-min-file-info": "Speichern Sie nur die minimierte Datei, sonst werden sowohl die komprimierte als auch die unkomprimierte Version im Zielordner gespeichert.",
+    "minjs-yes": "Ja",
+    "minjs-no": "Nein",
+    "minjs-compile": "Jetzt kompilieren!",
+    "minjs-source": "Quelle",
+    "minjs-enter-source": "Geben Sie die Quelldatei oder den Pfad ein. Wenn es sich um einen Pfad handelt, werden alle JS-Dateien in diesem Pfad alphabetisch zu einer JS-Datei zusammengefügt.",
+    "minjs-target": "Ziel",
+    "minjs-enter-target": "Geben Sie die Ziel-Datei ein. Die kompilierte Version erzeugt eine '.min.js' und bei Bedarf eine '.js'.",
+    "minjs-paths": "Pfade",
+    "minjs-add": "Pfad hinzufügen",
+    "minjs-file-error": "Datei existiert nicht.",
+    "minjs-folder-error": "Ordner existiert nicht.",
+    "minjs-delete": "Pfad löschen",
+    "minjs-save": "Speichern"
+}

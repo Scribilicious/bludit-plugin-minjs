@@ -1,0 +1,27 @@
+{
+    "plugin-data": {
+        "name": "MinJsコンパイラ",
+        "description": "これらの巨大なjsファイルを圧縮し、醜くするためのJavascriptミニファイア。Tedious DevelopmentsのJShrink (https://github.com/tedious/JShrink) ミニファイアを使用します。"
+    },
+    "please-support-mrbot": "私のプラグインを楽しんでいただけたら、以下のボタンをクリックして私をサポートしてください。ありがとうございます！",
+    "minjs-help": "これらの巨大なjsファイルを圧縮し、醜くするためのJavascriptミニファイア。Tedious DevelopmentsのJShrink (https://github.com/tedious/JShrink) ミニファイアを使用します。JSフォルダのソースとコンパイルされたJSファイルのターゲットを追加するだけで、JShrinkコンプレッサーが残りを行います。",
+    "minjs-settings": "設定",
+    "minjs-develop-mode": "開発モード",
+    "minjs-deactivated": "無効化",
+    "minjs-activated": "有効化",
+    "minjs-only-min-file": "ファイルのみを最小化",
+    "minjs-only-min-file-info": "最小化されたファイルのみを保存し、それ以外の場合は圧縮版と非圧縮版の両方がターゲットフォルダに保存されます。",
+    "minjs-yes": "はい",
+    "minjs-no": "いいえ",
+    "minjs-compile": "今すぐコンパイル！",
+    "minjs-source": "ソース",
+    "minjs-enter-source": "ソースファイルまたはパスを入力します。パスの場合、そのパス内のすべてのJSファイルがアルファベット順に1つのjsファイルにマージされます。",
+    "minjs-target": "ターゲット",
+    "minjs-enter-target": "ターゲットファイルを入力します。コンパイルされたバージョンは '.min.js' を生成し、必要に応じて '.js' を生成します。",
+    "minjs-paths": "パス",
+    "minjs-add": "パスを追加",
+    "minjs-file-error": "ファイルが存在しません。",
+    "minjs-folder-error": "フォルダが存在しません。",
+    "minjs-delete": "パスを削除",
+    "minjs-save": "保存"
+}

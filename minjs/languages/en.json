@@ -1,0 +1,27 @@
+{
+    "plugin-data": {
+        "name": "MinJs Compiler",
+        "description": "A Javascript minifier for compressing and making ugly these huge js files. Uses the JShrink (https://github.com/tedious/JShrink) minfier from Tedious Developments."
+    },
+    "please-support-mrbot": "If you enjoy my plugin, please support me by clicking the button below. Thank you!",
+    "minjs-help": "A Javascript minifier for compressing and making ugly these huge js files. Uses the JShrink (https://github.com/tedious/JShrink) minfier from Tedious Developments. Just add the source of an JS folder and the target for the compiled JS file and the JShrink compressor does the rest.",
+    "minjs-settings": "Settings",
+    "minjs-develop-mode": "Development mode",
+    "minjs-deactivated": "Deactivated",
+    "minjs-activated": "Activated",
+    "minjs-only-min-file": "Only minify the file",
+    "minjs-only-min-file-info": "Only save the minified file, else both the compressed and uncompressed version are saved in the target folder.",
+    "minjs-yes": "Yes",
+    "minjs-no": "No",
+    "minjs-compile": "Compile Now!",
+    "minjs-source": "Source",
+    "minjs-enter-source": "Enter the source file or path. If it's a path, all JS files in that path are merged alphabetically into one js file.",
+    "minjs-target": "Target",
+    "minjs-enter-target": "Enter the target file. The compiled version will generate a '.min.js' and if needed a '.js'.",
+    "minjs-paths": "Paths",
+    "minjs-add": "Add path",
+    "minjs-file-error": "File does not exist.",
+    "minjs-folder-error": "Folder does not exist.",
+    "minjs-delete": "Delete path",
+    "minjs-save": "Save"
+}

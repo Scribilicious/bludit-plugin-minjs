@@ -1,0 +1,27 @@
+{
+    "plugin-data": {
+        "name": "Compilador MinJs",
+        "description": "Un minimizador de Javascript para comprimir y hacer feas estos enormes archivos js. Utiliza el minimizador JShrink (https://github.com/tedious/JShrink) de Tedious Developments."
+    },
+    "please-support-mrbot": "Si disfrutas de mi plugin, por favor apóyame haciendo clic en el botón de abajo. ¡Gracias!",
+    "minjs-help": "Un minimizador de Javascript para comprimir y hacer feas estos enormes archivos js. Utiliza el minimizador JShrink (https://github.com/tedious/JShrink) de Tedious Developments. Solo añade la fuente de una carpeta JS y el objetivo para el archivo JS compilado y el compresor JShrink hace el resto.",
+    "minjs-settings": "Configuraciones",
+    "minjs-develop-mode": "Modo de desarrollo",
+    "minjs-deactivated": "Desactivado",
+    "minjs-activated": "Activado",
+    "minjs-only-min-file": "Solo minimizar el archivo",
+    "minjs-only-min-file-info": "Solo guarda el archivo minimizado, de lo contrario, tanto la versión comprimida como la no comprimida se guardan en la carpeta de destino.",
+    "minjs-yes": "Sí",
+    "minjs-no": "No",
+    "minjs-compile": "¡Compilar ahora!",
+    "minjs-source": "Fuente",
+    "minjs-enter-source": "Introduce el archivo fuente o la ruta. Si es una ruta, todos los archivos JS en esa ruta se fusionan alfabéticamente en un solo archivo js.",
+    "minjs-target": "Objetivo",
+    "minjs-enter-target": "Introduce el archivo objetivo. La versión compilada generará un '.min.js' y si es necesario un '.js'.",
+    "minjs-paths": "Rutas",
+    "minjs-add": "Agregar ruta",
+    "minjs-file-error": "El archivo no existe.",
+    "minjs-folder-error": "La carpeta no existe.",
+    "minjs-delete": "Eliminar ruta",
+    "minjs-save": "Guardar"
+}

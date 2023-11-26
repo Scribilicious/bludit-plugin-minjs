@@ -1,0 +1,27 @@
+{
+    "plugin-data": {
+        "name": "Компилятор MinJs",
+        "description": "Минификатор Javascript для сжатия и уродования этих огромных js-файлов. Использует минификатор JShrink (https://github.com/tedious/JShrink) от Tedious Developments."
+    },
+    "please-support-mrbot": "Если вам нравится мой плагин, поддержите меня, нажав на кнопку ниже. Спасибо!",
+    "minjs-help": "Минификатор Javascript для сжатия и уродования этих огромных js-файлов. Использует минификатор JShrink (https://github.com/tedious/JShrink) от Tedious Developments. Просто добавьте исходник JS-папки и цель для скомпилированного JS-файла, и компрессор JShrink сделает остальное.",
+    "minjs-settings": "Настройки",
+    "minjs-develop-mode": "Режим разработки",
+    "minjs-deactivated": "Деактивирован",
+    "minjs-activated": "Активирован",
+    "minjs-only-min-file": "Только минифицировать файл",
+    "minjs-only-min-file-info": "Сохраняйте только минифицированный файл, в противном случае как сжатая, так и несжатая версии сохраняются в целевой папке.",
+    "minjs-yes": "Да",
+    "minjs-no": "Нет",
+    "minjs-compile": "Компилировать сейчас!",
+    "minjs-source": "Источник",
+    "minjs-enter-source": "Введите исходный файл или путь. Если это путь, все JS-файлы в этом пути объединяются в алфавитном порядке в один js-файл.",
+    "minjs-target": "Цель",
+    "minjs-enter-target": "Введите целевой файл. Скомпилированная версия сгенерирует '.min.js' и при необходимости '.js'.",
+    "minjs-paths": "Пути",
+    "minjs-add": "Добавить путь",
+    "minjs-file-error": "Файл не существует.",
+    "minjs-folder-error": "Папка не существует.",
+    "minjs-delete": "Удалить путь",
+    "minjs-save": "Сохранить"
+}

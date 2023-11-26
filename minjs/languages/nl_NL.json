@@ -1,0 +1,27 @@
+{
+    "plugin-data": {
+        "name": "MinJs Compiler",
+        "description": "Een Javascript minifier voor het comprimeren en lelijk maken van deze enorme js bestanden. Gebruikt de JShrink (https://github.com/tedious/JShrink) minifier van Tedious Developments."
+    },
+    "please-support-mrbot": "Als je mijn plugin leuk vindt, steun me dan door op de knop hieronder te klikken. Dank je wel!",
+    "minjs-help": "Een Javascript minifier voor het comprimeren en lelijk maken van deze enorme js bestanden. Gebruikt de JShrink (https://github.com/tedious/JShrink) minifier van Tedious Developments. Voeg gewoon de bron van een JS map en het doel voor het gecompileerde JS bestand toe en de JShrink compressor doet de rest.",
+    "minjs-settings": "Instellingen",
+    "minjs-develop-mode": "Ontwikkelingsmodus",
+    "minjs-deactivated": "Gedeactiveerd",
+    "minjs-activated": "Geactiveerd",
+    "minjs-only-min-file": "Alleen het bestand minimaliseren",
+    "minjs-only-min-file-info": "Sla alleen het geminimaliseerde bestand op, anders worden zowel de gecomprimeerde als de ongecomprimeerde versie opgeslagen in de doelmap.",
+    "minjs-yes": "Ja",
+    "minjs-no": "Nee",
+    "minjs-compile": "Compileer nu!",
+    "minjs-source": "Bron",
+    "minjs-enter-source": "Voer het bronbestand of pad in. Als het een pad is, worden alle JS bestanden in dat pad alfabetisch samengevoegd tot één js bestand.",
+    "minjs-target": "Doel",
+    "minjs-enter-target": "Voer het doelbestand in. De gecompileerde versie genereert een '.min.js' en indien nodig een '.js'.",
+    "minjs-paths": "Paden",
+    "minjs-add": "Pad toevoegen",
+    "minjs-file-error": "Bestand bestaat niet.",
+    "minjs-folder-error": "Map bestaat niet.",
+    "minjs-delete": "Pad verwijderen",
+    "minjs-save": "Opslaan"
+}

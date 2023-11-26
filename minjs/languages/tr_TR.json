@@ -1,0 +1,27 @@
+{
+    "plugin-data": {
+        "name": "MinJs Derleyici",
+        "description": "Büyük js dosyalarını sıkıştırmak ve çirkin hale getirmek için bir Javascript sıkıştırıcı. Tedious Developments'tan JShrink (https://github.com/tedious/JShrink) sıkıştırıcısını kullanır."
+    },
+    "please-support-mrbot": "Eklentimi beğeniyorsanız, lütfen aşağıdaki düğmeye tıklayarak bana destek olun. Teşekkür ederim!",
+    "minjs-help": "Büyük js dosyalarını sıkıştırmak ve çirkin hale getirmek için bir Javascript sıkıştırıcı. Tedious Developments'tan JShrink (https://github.com/tedious/JShrink) sıkıştırıcısını kullanır. Sadece bir JS klasörünün kaynağını ve derlenmiş JS dosyasının hedefini ekleyin ve JShrink sıkıştırıcısı gerisini yapar.",
+    "minjs-settings": "Ayarlar",
+    "minjs-develop-mode": "Geliştirme modu",
+    "minjs-deactivated": "Devre dışı",
+    "minjs-activated": "Etkin",
+    "minjs-only-min-file": "Sadece dosyayı sıkıştır",
+    "minjs-only-min-file-info": "Sadece sıkıştırılmış dosyayı kaydet, aksi takdirde hem sıkıştırılmış hem de sıkıştırılmamış sürüm hedef klasöre kaydedilir.",
+    "minjs-yes": "Evet",
+    "minjs-no": "Hayır",
+    "minjs-compile": "Şimdi Derle!",
+    "minjs-source": "Kaynak",
+    "minjs-enter-source": "Kaynak dosya veya yolunu girin. Bir yol ise, o yolun içindeki tüm JS dosyaları alfabetik olarak birleştirilerek bir js dosyası oluşturulur.",
+    "minjs-target": "Hedef",
+    "minjs-enter-target": "Hedef dosyayı girin. Derlenmiş sürüm '.min.js' oluşturacak ve gerekiyorsa '.js' oluşturacak.",
+    "minjs-paths": "Yollar",
+    "minjs-add": "Yol ekle",
+    "minjs-file-error": "Dosya mevcut değil.",
+    "minjs-folder-error": "Klasör mevcut değil.",
+    "minjs-delete": "Yolu sil",
+    "minjs-save": "Kaydet"
+}

@@ -1,0 +1,27 @@
+{
+    "plugin-data": {
+        "name": "Compilatore MinJs",
+        "description": "Un minificatore Javascript per comprimere e rendere brutti questi enormi file js. Utilizza il minificatore JShrink (https://github.com/tedious/JShrink) di Tedious Developments."
+    },
+    "please-support-mrbot": "Se ti piace il mio plugin, per favore supportami cliccando il pulsante qui sotto. Grazie!",
+    "minjs-help": "Un minificatore Javascript per comprimere e rendere brutti questi enormi file js. Utilizza il minificatore JShrink (https://github.com/tedious/JShrink) di Tedious Developments. Basta aggiungere la sorgente di una cartella JS e il target per il file JS compilato e il compressore JShrink fa il resto.",
+    "minjs-settings": "Impostazioni",
+    "minjs-develop-mode": "Modalità di sviluppo",
+    "minjs-deactivated": "Disattivato",
+    "minjs-activated": "Attivato",
+    "minjs-only-min-file": "Minimizza solo il file",
+    "minjs-only-min-file-info": "Salva solo il file minificato, altrimenti sia la versione compressa che quella non compressa vengono salvate nella cartella di destinazione.",
+    "minjs-yes": "Sì",
+    "minjs-no": "No",
+    "minjs-compile": "Compila ora!",
+    "minjs-source": "Sorgente",
+    "minjs-enter-source": "Inserisci il file sorgente o il percorso. Se è un percorso, tutti i file JS in quel percorso vengono uniti in ordine alfabetico in un unico file js.",
+    "minjs-target": "Target",
+    "minjs-enter-target": "Inserisci il file di destinazione. La versione compilata genererà un '.min.js' e se necessario un '.js'.",
+    "minjs-paths": "Percorsi",
+    "minjs-add": "Aggiungi percorso",
+    "minjs-file-error": "Il file non esiste.",
+    "minjs-folder-error": "La cartella non esiste.",
+    "minjs-delete": "Elimina percorso",
+    "minjs-save": "Salva"
+}
