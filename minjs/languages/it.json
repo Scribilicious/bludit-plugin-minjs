@@ -1,6 +1,6 @@
 {
     "plugin-data": {
-        "name": "Compilatore MinJs",
+        "name": "Compilatore MinJS",
         "description": "Un minificatore Javascript per comprimere e rendere brutti questi enormi file js. Utilizza il minificatore JShrink (https://github.com/tedious/JShrink) di Tedious Developments."
     },
     "please-support-mrbot": "Se ti piace il mio plugin, per favore supportami cliccando il pulsante qui sotto. Grazie!",

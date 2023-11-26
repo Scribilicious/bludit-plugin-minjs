@@ -1,6 +1,6 @@
 {
     "plugin-data": {
-        "name": "MinJsコンパイラ",
+        "name": "MinJSコンパイラ",
         "description": "これらの巨大なjsファイルを圧縮し、醜くするためのJavascriptミニファイア。Tedious DevelopmentsのJShrink (https://github.com/tedious/JShrink) ミニファイアを使用します。"
     },
     "please-support-mrbot": "私のプラグインを楽しんでいただけたら、以下のボタンをクリックして私をサポートしてください。ありがとうございます！",

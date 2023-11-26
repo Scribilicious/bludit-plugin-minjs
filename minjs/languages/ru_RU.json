@@ -1,6 +1,6 @@
 {
     "plugin-data": {
-        "name": "Компилятор MinJs",
+        "name": "Компилятор MinJS",
         "description": "Минификатор Javascript для сжатия и уродования этих огромных js-файлов. Использует минификатор JShrink (https://github.com/tedious/JShrink) от Tedious Developments."
     },
     "please-support-mrbot": "Если вам нравится мой плагин, поддержите меня, нажав на кнопку ниже. Спасибо!",

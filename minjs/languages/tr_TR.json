@@ -1,6 +1,6 @@
 {
     "plugin-data": {
-        "name": "MinJs Derleyici",
+        "name": "MinJS Derleyici",
         "description": "Büyük js dosyalarını sıkıştırmak ve çirkin hale getirmek için bir Javascript sıkıştırıcı. Tedious Developments'tan JShrink (https://github.com/tedious/JShrink) sıkıştırıcısını kullanır."
     },
     "please-support-mrbot": "Eklentimi beğeniyorsanız, lütfen aşağıdaki düğmeye tıklayarak bana destek olun. Teşekkür ederim!",

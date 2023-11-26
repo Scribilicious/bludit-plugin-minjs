@@ -1,7 +1,7 @@
-# "MinJs Compiler" a Bludit Plugin
+# "MinJS Compiler" a Bludit Plugin
 
 ## Introduction
-MinJs Compiler compiles your JS files into one compact JS file.
+MinJS Compiler compiles your JS files into one compact JS file.
 
 
 ## Features
@@ -12,7 +12,7 @@ MinJs Compiler compiles your JS files into one compact JS file.
 
 
 ## Installation
-Simply copy the folder "minjs-compiler" into the Bludit plugin folder "bl-plugins" and then activate the plugin in the Bludit plugin section.
+Simply copy the folder "minjs" into the Bludit plugin folder "bl-plugins" and then activate the plugin in the Bludit plugin section.
 
 
 ## How to use

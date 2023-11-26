@@ -1,6 +1,6 @@
 {
     "plugin-data": {
-        "name": "MinJs Compiler",
+        "name": "MinJS Compiler",
         "description": "A Javascript minifier for compressing and making ugly these huge js files. Uses the JShrink (https://github.com/tedious/JShrink) minfier from Tedious Developments."
     },
     "please-support-mrbot": "If you enjoy my plugin, please support me by clicking the button below. Thank you!",
